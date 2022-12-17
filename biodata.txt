@@ -2,3 +2,4 @@ biodta mahasiswa
 - nama
 - npm
 - ruang
+- alamat
