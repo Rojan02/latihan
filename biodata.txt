@@ -1,0 +1,4 @@
+biodta mahasiswa
+- nama
+- npm
+- ruang
